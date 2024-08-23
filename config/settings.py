@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     # 3rd
     'rest_framework',
 
+    # project
     'todo'
 
 ]
